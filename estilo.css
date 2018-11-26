@@ -4,12 +4,13 @@ body {
 }
 .topo {
   height:50px;
-  background-color:#323232;
+  background-color:#333;
 }
 .topo_int {
   width:1000px;
   margin:auto;
   line-height:50px;
+  color:#FFF;
 }
 .logomarca {
   float:left;
