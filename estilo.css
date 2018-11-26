@@ -35,10 +35,16 @@ body {
 .menu_nav li:hover {
   background-color:#3580C1;
 }
-.banner {
+.Banner {
   height:300px;
   background-color:#3479BA;
 }
 .Banner_int {
   width:1000px;
+}
+.Baner_text {
+  float:left;
+}
+.Banner_image {
+  float:right;
 }
