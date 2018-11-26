@@ -43,7 +43,7 @@ body {
   width:1000px;
   margin:auto;
 }
-.baner_text {
+.banner_text {
   float:left;
 }
 .banner_image {
@@ -56,6 +56,7 @@ body {
 .frase_impacto {
   font-size:40px;
   font-weight:bold;
+  margin-top:60px
 }
 .frase_comp {
   font-size:20px;
