@@ -9,6 +9,7 @@ body {
 .topo_int {
   width:1000px;
   margin:auto;
+  line-height:50px;
 }
 .logomarca {
   float:left;
