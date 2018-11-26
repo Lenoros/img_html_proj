@@ -49,9 +49,10 @@ body {
 .banner_image {
   float:right;
 }
-.comemoracao {
+.banner_image img {
   width:430px;
   height:300px;
+  margin-right:55px;
 }
 .frase_impacto {
   font-size:40px;
