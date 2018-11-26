@@ -41,6 +41,7 @@ body {
 }
 .banner_int {
   width:1000px;
+  margin:auto;
 }
 .baner_text {
   float:left;
@@ -53,7 +54,7 @@ body {
   height:300px;
 }
 .frase_impacto {
-  font-size:48px;
+  font-size:40px;
   font-weight:bold;
   margin-top:60px;
 }
