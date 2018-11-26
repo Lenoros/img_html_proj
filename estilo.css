@@ -19,3 +19,13 @@ body {
 .menu_nav {
   float:right;
 }
+.menu_nav ul, .menu_nav li {
+  margin:0;
+  padding:0;
+  list-style:none;
+}
+.menu_nav li {
+  float:left;
+  padding-left:10px;
+  padding-right:10px;
+}
