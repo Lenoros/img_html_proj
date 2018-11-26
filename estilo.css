@@ -11,8 +11,9 @@ body {
   margin:auto;
 }
 .logomarca {
-  
+  float:left;
+  font-size:32px;
 }
 .menu_nav {
-  
+  float:right;
 }
