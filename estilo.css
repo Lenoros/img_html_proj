@@ -2,6 +2,7 @@ body {
   margin:0;
   padding:0;
   font-family:arial;
+  color:#FFF;
 }
 .topo {
   height:50px;
@@ -11,7 +12,6 @@ body {
   width:1000px;
   margin:auto;
   line-height:50px;
-  color:#FFF;
 }
 .logomarca {
   float:left;
@@ -35,20 +35,31 @@ body {
 .menu_nav li:hover {
   background-color:#3580C1;
 }
-.Banner {
+.banner {
   height:300px;
   background-color:#3479BA;
 }
-.Banner_int {
+.banner_int {
   width:1000px;
 }
-.Baner_text {
+.baner_text {
   float:left;
 }
-.Banner_image {
+.banner_image {
   float:right;
 }
 .comemoracao {
   width:430px;
   height:300px;
+}
+.frase_impacto {
+  font-size:48px;
+  font-weight:bold;
+  margin-top:60px;
+}
+.frase_comp {
+  
+}
+.botao_prod {
+  
 }
