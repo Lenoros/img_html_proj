@@ -1,7 +1,7 @@
 body {
   margin:0;
   padding:0;
-  font-family:arial;
+  font-family:arial, sans-serif;
   color:#FFF;
 }
 .topo {
@@ -71,6 +71,30 @@ body {
   text-align:center;
   line-height:55px;
   margin-top:20px;
-  cursor:pointer;
-  border-radius:5px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.conteudo_interno {
+  width: 1000px;
+  margin: auto;
+}
+.outros_produtos {
+  height: 90px;
+  font-size: 26px;
+  text-align: center;
+  font-weight: bolder;
+  color: #000;
+  margin-top: 10px;
+  line-height: 90px;
+}
+.fotos img {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.rodape {
+  background-color: #3474BA;
+  height: 50px;
+  text-align: center;
+  line-height: 50px;
+  margin-top: 40px;
 }
